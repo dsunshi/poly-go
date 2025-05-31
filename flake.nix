@@ -32,8 +32,8 @@
            haskellPackages.hoogle # Lookup Haskell documentation
            haskellPackages.retrie # Haskell refactoring tool
            haskellPackages.threadscope # A graphical tool for profiling parallel Haskell programs
-           haskellPackages.markdown-unlit # Literate Haskell support for Markdown
         */
+        haskellPackages.markdown-unlit # Literate Haskell support for Markdown
         # External libraries that may be required:
         zlib # External C library needed by some Haskell packages
       ];
