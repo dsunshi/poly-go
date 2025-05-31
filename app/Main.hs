@@ -1,6 +1,8 @@
 module Main where
 
-import Color
+-- import Color
+import ColorTables
 
 main :: IO ()
-main = putStrLn $ show (hb "Dark Yellow")
+-- main = putStrLn $ show (hb "Dark Yellow")
+main = print $ toMd pla

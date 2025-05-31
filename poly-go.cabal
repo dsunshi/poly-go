@@ -19,7 +19,7 @@ common warnings
 executable poly-go
     import:           warnings
     main-is:          Main.hs
-    other-modules:    Color, ColorTables
+    other-modules:    Color, ColorTables, ColorT
     -- other-extensions:
     build-depends:    base ^>=4.19.2.0, markdown-unlit
     ghc-options:      -pgmL markdown-unlit
