@@ -10,7 +10,7 @@ import Color
 | Brand | Name | Color |
 |-------|------|-------|
 | Hatchbox | Yellow | `#ECD018` |
-
+$${\color{#ECD018}⬤}$$
 ```haskell
 pla :: [NamedColor]
 pla =
