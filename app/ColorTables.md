@@ -1,11 +1,14 @@
 
 ```haskell top
 module ColorTables where
+
+import Color
 ```
 
 # Color Tables
 
 | Brand | Name | Color |
+|-------|------|-------|
 | Hatchbox | Yellow | `#ECD018` |
 
 ```haskell
